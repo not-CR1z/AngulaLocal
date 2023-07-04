@@ -1,0 +1,10 @@
+.mi_formulario{
+    width: 450px;
+    background-color: bisque;
+
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}

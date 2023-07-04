@@ -1,0 +1,33 @@
+.tablas{
+    width: 500px;
+    border:  1px tomato;
+     ;
+}
+
+th{
+    text-align: center;
+    background-color: beige;
+    border: solid 1px tomato;
+
+}
+
+td{
+    border: solid 1px tomato;
+}
+
+/* .Nombre{
+    text-align: center;
+    background-color: bisque;
+} */
+
+tr:nth-child(even){
+    background-color:aquamarine;
+    
+}
+
+tr:hover{
+    background-color: rgb(201, 201, 201);
+    color: blue;
+}
+
+
